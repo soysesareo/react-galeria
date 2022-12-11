@@ -1,0 +1,20 @@
+.linea-texto {
+    height: 0.1px;
+    width: 80%;
+    background-color: grey;
+    margin: auto;
+}
+
+.texto-footer {
+    font-size: 25px;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.contenedor-footer {
+    margin-top: 2%;
+}
+
+.alert {
+    text-align: center;
+}

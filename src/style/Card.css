@@ -1,0 +1,13 @@
+.contenedor-tarjeta {
+    text-align: center;
+    margin-top: 2.5%;
+
+}
+.nombre-animal {
+    font-size: 25px;
+    margin-bottom: 0.5%;
+}
+
+.tipo-animal {
+    font-size: 18px;
+}

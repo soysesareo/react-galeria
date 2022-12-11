@@ -1,0 +1,11 @@
+.texto-cabecera {
+  font-size: 38px;
+  text-align: center;
+  margin-bottom: 2%;
+}
+
+.linea-header {
+  height: 0.1px;
+  background-color: grey;
+  margin: auto;
+}
