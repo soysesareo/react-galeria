@@ -3,6 +3,8 @@ import Header from './components/Header';
 import Card from './components/Card';
 import Footer from './components/Footer';
 import Alert from './components/Alert';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import Button from "react-bootstrap/Button";
 
 function App() {
   return (
@@ -25,6 +27,11 @@ function App() {
         <Footer />
         <Alert />
       </div>
+      {/* <div>
+      <Button variant="primary" size="lg">
+            Ver más imágenes
+          </Button>
+      </div> */}
     </div>
   );
 }
